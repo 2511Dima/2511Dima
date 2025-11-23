@@ -1,4 +1,4 @@
-## Hey, I'm Dima 😎<br><br>
+# Hey, I'm Dima 😎<br><br>
 🌱 I’m currently learning ML with python<br><br>
 ⚡ Contact me, if you have some questions
 
